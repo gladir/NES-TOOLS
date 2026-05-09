@@ -12,7 +12,7 @@ Voici la liste des différents fichiers proposés dans NES-TOOLS :
 		</tr>
 		<tr>
 			<td><b>NES.PAS</b></td>
-			<td>Cette commande permet de lancer un emulateur NES.</td>
+			<td>Cette commande permet de lancer un emulateur NES (<i>NES emulator</i>).</td>
 		</tr>
 </table>  
 
